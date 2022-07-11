@@ -1,4 +1,6 @@
-# Free Audio Data Links for (Speech to Text) STT
+# Free Audio Data Links for (Automatic Speech Recognition)ASR
+
+This repo contains some of the common publically available audio data that you can download for ASR or other speech activities.
 
  Source | Link | Size (Hours) |
  ------- | ------- | ------- | 
