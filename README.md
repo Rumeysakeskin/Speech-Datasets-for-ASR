@@ -11,7 +11,7 @@ This repo contains some of the common publically available audio data that you c
 
 ### Download Speech Data for Other Languages 
 
-You can download and create `manifest.jsonl` for other languages supported by the dataset.   
+You can download and create `manifest.jsonl` for different languages supported by the dataset.   
 
 - In the following script `common_voice_dataset.ipynb` change the version and language to you wish to download from [Mozilla](https://commonvoice.mozilla.org/en/datasets)
 ```
