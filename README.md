@@ -14,13 +14,13 @@ This repo contains some of the common publically available audio data that you c
 You can download and create `manifest.jsonl` for different languages supported by the dataset.   
 
 - In the following script `common_voice_dataset.ipynb` change the version and language to you wish to download from [Mozilla](https://commonvoice.mozilla.org/en/datasets).
-```
+```python
 version = 'cv-corpus-8.0-2022-01-19'
 language = 'cv-corpus-8.0-2022-01-19-en'
 ```
 
 - In the following script `voxforge_dataset.ipynb` change the language to you wish to download from [Voxforge](http://www.repository.voxforge1.org/downloads/).
-```
+```python
 VOXFORGE_URL_16kHz = 'http://www.repository.voxforge1.org/downloads/en/Trunk/Audio/Main/16kHz_16bit/'
 ```
  
